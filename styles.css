@@ -1,0 +1,69 @@
+h3 {
+  font-size:20pt;
+  font-family: "Fredoka One"
+}
+
+body {
+  width:300px;
+  border-style: dotted;
+  border-width: 3px;
+  border-color: rgb(172,0,230);
+  padding: 15px;
+  border-radius: 20px;
+  background-color: rgb(230,230,210);
+  box-shadow: 10px 10px 5px #999999
+}
+
+img {
+  width:300px;
+}
+
+#text {
+  border-style: dotted;
+  border-width: 2px;
+  border-color: rgb(172,0,230);
+  padding: 15px;
+  border-radius:20px  
+}
+
+.interest {
+  font-style: italic;
+  font-size: 13pt;
+  font-family: futura, avenir, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0
+}
+
+.title {
+  font-weight: bold;
+  font-size:16pt;
+  font-family: Baskerville, helvetica, serif 
+}
+  
+.subtitle {
+  font-weight: 550;
+  font-size: 12pt;
+  font-family: arial, tahoma, sans-serif 
+}
+
+.content {
+  font-size: 13pt;
+  font-family: "times new roman", times, serif
+}
+
+.footnote {
+  font-weight: 550;
+  font-size: 10pt;
+  font-family: tahoma, verdana, sans-serif
+}
+
+.point {
+  color: blue
+}
+
+.feature {
+  color: red
+}
